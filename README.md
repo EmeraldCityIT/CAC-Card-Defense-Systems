@@ -1,7 +1,7 @@
 # CAC-Card-Defense-Systems
 Discrete weaponized identity cards for fraud defense and engagement. "Not always lethal, always accurate." 
 
-* Randomly scattered Microinjection methods for dosage of defensive measures.
+* Randomly scattered Microinjection methods for dosage of defensive measures and tagging mediums.
 
 * Watermarks which temporarily appear when the person of wrong blood type handles card.
 
